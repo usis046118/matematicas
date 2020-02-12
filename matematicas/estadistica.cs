@@ -8,7 +8,7 @@ namespace matematicas
 {
     class estadistica
     {
-        public double media = 0, suma = 0;
+        public double  suma = 0;
 
         public double media(string[]serie)
             {
