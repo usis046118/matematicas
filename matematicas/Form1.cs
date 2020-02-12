@@ -16,5 +16,10 @@ namespace matematicas
         {
             InitializeComponent();
         }
+
+        private void btnmedia_aritmetica_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
